@@ -17,6 +17,7 @@ You can play the live demo [here](https://tariqulislaam.github.io/tic-tac-toe-v2
 3. **Winning:** The first player to get three of their markers in a row (horizontally, vertically, or diagonally) wins the game.
 4. **Restart:** Click the "Restart" button to reset the game and start over.
 
+## Variants
 Basic Version [here](https://tariqulislaam.github.io/tic-tac-toe/).
 
 ## Credits
