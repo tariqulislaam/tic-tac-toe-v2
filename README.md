@@ -19,7 +19,7 @@ You can play the live demo [here](https://tariqulislaam.github.io/tic-tac-toe-v2
 
 ## Credits
 
-- Original game concept and design: Tariqul Islam ([GitHub](https://github.com/tariqulislaam))
+- Original game concept and design: Tariqul Islam ([Facebook](https://facebook.com/tariqulislaamrahat))
 
 ## License
 
