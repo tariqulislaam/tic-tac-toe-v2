@@ -18,6 +18,7 @@ You can play the live demo [here](https://tariqulislaam.github.io/tic-tac-toe-v2
 4. **Restart:** Click the "Restart" button to reset the game and start over.
 
 ## Variants
+
 Basic Version [here](https://tariqulislaam.github.io/tic-tac-toe/).
 
 ## Credits
