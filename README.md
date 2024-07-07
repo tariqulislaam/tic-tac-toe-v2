@@ -27,8 +27,8 @@ Basic Version [here](https://tariqulislaam.github.io/tic-tac-toe/).
 
 ## Version 2.o
 
-- Fixed some bugs and issues
-- Added more bugs to fix later..
+- Fixed some bugs and issues.
+- Added more bugs to fix later.
 
 ## License
 
