@@ -25,6 +25,11 @@ Basic Version [here](https://tariqulislaam.github.io/tic-tac-toe/).
 
 - Original game concept and design: Tariqul Islam ([Facebook](https://facebook.com/tariqulislaamrahat))
 
+## Version 2.o
+
+Fixed some bugs and issues
+Added more bugs to fix later..
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
