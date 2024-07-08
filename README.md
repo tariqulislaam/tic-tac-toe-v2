@@ -4,6 +4,10 @@ This is a simple implementation of the classic tic-tac-toe game built using HTML
 
 You can play the live demo [here](https://tariqulislaam.github.io/tic-tac-toe-v2/).
 
+## Note⚠️
+
+For the code, please reach out to me through any social media platform. Facebook is recommended for the quickest response.
+
 ## Features
 
 - Single-player mode against the computer AI.
