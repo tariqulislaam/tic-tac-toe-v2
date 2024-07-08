@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (Advance)
 
-This is a simple implementation of the classic tic-tac-toe game built using HTML, CSS, and JavaScript.
+This is a advance implementation of the classic tic-tac-toe game built using HTML, CSS, and JavaScript.
 
 You can play the live demo [here](https://tariqulislaam.github.io/tic-tac-toe-v2/).
 
