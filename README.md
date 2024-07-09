@@ -12,7 +12,6 @@ For the code, please reach out to me through any social media platform. Facebook
 
 - Single-player mode against the computer AI.
 - Responsive design for mobile and desktop.
-- Sound effects for a better gaming experience.
 
 ## How to Play
 
